@@ -8,7 +8,6 @@ TrackR is a task management application built with React, TypeScript, and Zustan
 - Categorize tasks as "To Do", "In Progress", or "Completed"
 - Pomodoro timer for tasks
 - Light and dark mode toggle
-- Drag and drop tasks between categories
 - User authentication
 
 ## Installation
