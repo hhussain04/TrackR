@@ -14,7 +14,7 @@ TrackR is a task management application built with React, TypeScript, and Zustan
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/TrackR.git
+   git clone https://github.com/hhussain04/TrackR.git
    cd TrackR
    ```
 
